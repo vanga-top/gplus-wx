@@ -1,0 +1,1 @@
+"/Applications/wechatwebdevtools.app/Contents/MacOS/cli" cloud functions deploy --e cloud1-2gw22z42290021a7 --n quickstartFunctions --r --project "/Users/chenhui/github/gplus-wx" --report_first --report
